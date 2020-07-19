@@ -1,0 +1,13 @@
+Horiseon website by Horiseon
+Last edited by Crystal Crandall
+
+Changes Made
+    Div tags to be respectable with the appropriate content related inside
+    Cleaned up css page to make smaller classes with same specifics
+        such as images, headers, and body content
+    Added alts to images 
+    Fixed image links
+    Added alts to navigation as well
+    Horiseon is tab name when opened up in web browser
+    Added notes for later revision if needed on css and html pages
+    Organized css so groups would be kept together if needed to be edited later as well
